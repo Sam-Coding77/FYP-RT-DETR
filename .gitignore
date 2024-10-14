@@ -1,0 +1,11 @@
+# Ignore Dataset
+coco2017/
+
+# Ignore output
+output/
+
+# Ignore .onnx files
+*.onnx
+
+# Ignore .pth files
+*.pth
